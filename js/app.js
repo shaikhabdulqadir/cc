@@ -1,1 +1,1 @@
-js
+alert("CDN");
